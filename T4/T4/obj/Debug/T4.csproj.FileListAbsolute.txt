@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\bin\Debug\T4.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\bin\Debug\T4.exe
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\bin\Debug\T4.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\obj\Debug\T4.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\obj\Debug\T4.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\obj\Debug\T4.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\obj\Debug\T4.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\obj\Debug\T4.exe
+c:\users\administrator\documents\visual studio 2013\Projects\T4\T4\obj\Debug\T4.pdb
